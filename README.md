@@ -30,7 +30,7 @@ We begin by recreating the City of LA's displacement index using updated census 
 
 ## Folder Organization
 
-Our project repo includes 4 folders: Data, Data Cleaning Notebooks, Final Outputs, and Resources. We recommend referring to the Final Outputs folder first, which includes 3 notebooks with our final visualizations and reflections. Our data cleaning notebooks are predictably located in the Data Cleaning Notebooks folder. The datasets we used are saved in the Data folder. You can disregard the Resources folder. 
+Our project repo includes 4 folders: Data, Data Cleaning Notebooks, Final Outputs, and Resources. We recommend referring to the Final Outputs folder first, which includes 3 notebooks with our final visualizations and reflections. Our data cleaning notebooks are predictably located in the Data Cleaning Notebooks folder. The datasets we used are saved in the Data folder. You can disregard the Resources folder. We have saved several csv and GeoJSON files to the folder as well, which are used throughout our analysis.
 
 ## Findings
 
