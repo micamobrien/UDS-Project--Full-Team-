@@ -16,10 +16,28 @@ Our project attempts to answer the following research questions:
 
 We rely on the following datasets to answer our research questions: 
 
+ - Assessor Parcels Data - 2006 thru 2021 (LA County Open Data)
+ - Displacement Typologies Data - thru May 2018 (Urban Displacement Project)
+ - City of LA Displacement Index - 2000-2014 (LA GeoHub) 
+ - Census Data - 2010 and 2020
+    - Racial demographics 
+    - Years of education
+    - Household size 
+    - Median income
+    - Median gross rent
+
 We begin by recreating the City of LA's displacement index using updated census data. We clean and join census data on racial demographics, years of education, household size, median income, and median gross rent for 2010 and 2020. We calculate percent change across these years. Seperately, we filter and clean sold land parcels in 2010 and 2020. We calculate percent change across these years as well. We conduct various cluster analyses using the gentrification indicators and map our findings alongside the Urban Displacement Project's gentrification typologies for the 6 neighborhoods. We use a random forest model to predict land value change across the 6 neighborhoods and map the results. 
 
 ## Folder Organization
 
+Our project repo includes 4 folders: Data, Data Cleaning Notebooks, Final Outputs, and Resources. We recommend referring to the Final Outputs folder first, which includes 3 notebooks with our final visualizations and reflections. Our data cleaning notebooks are predictably located in the Data Cleaning Notebooks folder. The datasets we used are saved in the Data folder. You can disregard the Resources folder. 
+
 ## Findings
+
+### Cluster Analysis and Mapping 
+
+### Predictive Modeling with the Land Value Dataset
+
+### Mapping Land Value Percent Change
 
 ## Conclusions and Future Research
