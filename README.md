@@ -17,3 +17,9 @@ Our project attempts to answer the following research questions:
 We rely on the following datasets to answer our research questions: 
 
 We begin by recreating the City of LA's displacement index using updated census data. We clean and join census data on racial demographics, years of education, household size, median income, and median gross rent for 2010 and 2020. We calculate percent change across these years. Seperately, we filter and clean sold land parcels in 2010 and 2020. We calculate percent change across these years as well. We conduct various cluster analyses using the gentrification indicators and map our findings alongside the Urban Displacement Project's gentrification typologies for the 6 neighborhoods. We use a random forest model to predict land value change across the 6 neighborhoods and map the results. 
+
+## Folder Organization
+
+## Findings
+
+## Conclusions and Future Research
