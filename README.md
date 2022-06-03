@@ -34,4 +34,10 @@ Our project repo includes 4 folders: Data, Data Cleaning Notebooks, Final Output
 
 ## Findings
 
+### Cluster Analysis and Mapping 
+
+### Predictive Modeling with the Land Value Dataset
+
+### Mapping Land Value Percent Change
+
 ## Conclusions and Future Research
