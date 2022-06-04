@@ -59,6 +59,11 @@ The rank of importance of each factor for the prediction is percent change of no
 
 ### Mapping Land Value Percent Change
 
+We created 3 sets of maps to demonstrate the land value percent change from 2010 to 2020. First we mapped out the difference between land value percent change with inflation and land value percent change without inflation. From the two maps, we see there is little difference, so we continue to use land value percent change witth inflation to compare with neighborhood boundary map. The reason was to see where these census tracts are located and see then make a conclusion of which neighborhood has been experiencing the most percent change in land value.
+
+Our main takeaway is that some census tracts have experienced the most change in land value in Koreatown. However, in average, Westlake was shown with the higher percent change, whereas Echo Park has the smallest percent change in land value.
+
+
 ## Conclusions and Future Research
 Given the high level of change that has taken place since 2010, it's clear that the Westlake area is particularly vulnerable to gentrification. However unlike its neighbors to east in Downtown and North in Silverlake, most of the historic residents have persisted in residing in their communities. There is much that can be done to ensure that historic residents can continue to live in their communities, to not only survive but also thrive amidst the large-scale economic development taking place across the city. 
 
