@@ -44,7 +44,18 @@ We see that cluster 4 (one of the more stable clusters) is concentrated in Korea
 
 According to the UDP map, many census tracts across the six neighborhoods are at risk of gentrification. However, the cluster analysis indicates which key indicators are correlated with different stages of gentrification. It appears that a large increase in rents and percent of the population with a bachelor's degree and above are correlated with advanced gentrification in the Downtown, Silver Lake, Echo Park areas. This information could be valuable to policymakers, who can tailor displacement interventions accordingly.   
 
-### Predictive Modeling with the Land Value Dataset
+### Predictive Modeling with the Land Value Dataset (Final Notebook 2 - Random Forests)
+We created several random forests models for the percent change in land value from 2010 to 2020 with and without price adjusted to inflation. Factors we use for the predicition models include percent change of nonfamily income, percent change of rent, percent change of average number of ppl per household, percent change of numbers of bachelors, percent change of family income and percent change of white population. 
+
+The accuracy score for random forests model 1 and 2 are both 0.6443. In terms of confusion matrix, the true positive number is 9 (6%), the true negative number is 87 (58.4%), the false positive number is 15 (10.1%) and the false negative number is 38 (25.5%).
+
+Our model correctly predict 58.4% in the negative class and 6% in the positive class. In our case, the negative class is considered the less gentrified class with percent change of land value below the mean and the positive class is considered the more gentrified class with percent change of the land value higher than the mean.
+
+Prediction for the less gentrified class is pretty accurate, however, not so much for the more gentrified class. One possible reason could be the distribution of our data where majority of the rows are concentrated in the less gentrified class causing the lack of training and testing samples for the upper end. It could also caused by a few outliers. Next time, we might try to drop the outlier samples and focus on the range where majority of the samples located.
+
+In terms of the comparison of with and without inflation, there is no apparent difference between the two prediction. They have the same accuracy score and confusion matrix distribution. We think that the inflation rate (1.19%) is not big enough to create a huge difference in the prediction. In the future, it would be interesting for us to look at the years around 2008 and 2020 where there were higher inflation rates.
+
+The rank of importance of each factor for the prediction is percent change of nonfamily income, percent change of rent, percent change of average number of ppl per household, percent change of numbers of bachelors, percent change of family income and percent change of white population. The percent of of nonfamily income plays the greatest role in this prediction model. This result makes a lot of sense because gentrification, a lot of time, is associated with people who are single with increasing income driving up prices of the neighborhoods.
 
 ### Mapping Land Value Percent Change
 
