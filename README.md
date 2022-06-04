@@ -62,7 +62,7 @@ The rank of importance of each factor for the prediction is percent change of no
 ## Conclusions and Future Research
 Given the high level of change that has taken place since 2010, it's clear that the Westlake area is particularly vulnerable to gentrification. However unlike its neighbors to east in Downtown and North in Silverlake, most of the historic residents have persisted in residing in their communities. There is much that can be done to ensure that historic residents can continue to live in their communities, to not only survive but also thrive amidst the large-scale economic development taking place across the city. 
 
-Future research in the Westlake should focus on the needs of residents and qualitative methods would greatly provide context to the census data change. It would be good to know how residents' experience/views on neighborhood change differs based on their census block. 
+Future research in the Westlake should focus on the needs of residents and qualitative methods would greatly provide context to the census data change. It would be good to know how residents' experience/views on neighborhood change differs based on their census block. Our group also did not look into the tax or Zillow data which the urban displacement project did look into. Expanding our variables and sample size (i.e. neighborhoods) would also allow us to broaden our scope and bring in more insight to our project. 
 
 
 
