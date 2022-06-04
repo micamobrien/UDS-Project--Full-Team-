@@ -59,9 +59,9 @@ The rank of importance of each factor for the prediction is percent change of no
 
 ### Mapping Land Value Percent Change
 
-We created 3 sets of maps to demonstrate the land value percent change from 2010 to 2020. First we mapped out the difference between land value percent change with inflation and land value percent change without inflation. From the two maps, we see there is little difference, so we continue to use land value percent change witth inflation to compare with neighborhood boundary map. The reason was to see where these census tracts are located and see then make a conclusion of which neighborhood has been experiencing the most percent change in land value.
+We created 3 sets of maps to demonstrate the land value percent change from 2010 to 2020. First we mapped out the difference between land value percent change with inflation and land value percent change without inflation. From the two maps, we see there is little difference, so we continue to use land value percent change witth inflation to compare with neighborhood boundary map. The reason was to see where these census tracts are located and then make a conclusion of which neighborhood has been experiencing the greatest percent change in land value.
 
-Our main takeaway is that some census tracts have experienced the most change in land value in Koreatown. However, in average, Westlake was shown with the higher percent change, whereas  has the smallest percent change in land value.
+Our main takeaway is that some census tracts have experienced the most change in land value in Koreatown. However, on average, Westlake was shown with the higher percent change, whereas  has the smallest percent change in land value.
 
 
 ## Conclusions and Future Research
