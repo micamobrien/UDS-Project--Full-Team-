@@ -34,7 +34,7 @@ Our project repo includes 4 folders: Data, Data Cleaning Notebooks, Final Output
 
 ## Findings
 
-### Cluster Analysis and Mapping 
+### Cluster Analysis and Mapping (Final Notebook 1 - Cluster Analysis and Mapping) 
 
 We create 5 clusters of the 128 census tracts in Westlake, Downtown, Pico-Union, Echo Park, Silver Lake, and Koreatown to better understand similarities and differences across these neighborhoods in terms of demographic change over time. We find that 2 of the clusters, which make up a majority of the census tracts (90 in total), are fairly stable over the ten year period, meaning they do not have particularly high rates of change in any of the census indicators. The 3 other clusters represent varying degrees of neighborhood change with one cluster exhibiting a dramatic change in racial demographics, education level, and rent, one cluster exihibiting some change in demographics, and another cluster exhibiting dramatic change in nonfamily income. When we map the clusters, we see that cluster 4 (a cluster with some of the more stable census tracts) appear to be grouped on the outskirts of the map in the north, west, and south. Cluster 1, which includes census tracts with some notable deomgraphic change, appears to be concentrated in the southern part of the map. Clusters 0 and 3--which also had high rates of change--appear to be sprinkled throughout.  
 
